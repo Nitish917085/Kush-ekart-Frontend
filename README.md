@@ -22,32 +22,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ![HomePage of Website](https://res.cloudinary.com/ddm7rplpt/image/upload/v1681815423/1_hujy5h.jpg)
 
-![Sign In/Sign Up](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679731897/images/Untitled_dhdeue.jpg)
-
-![Navbar](This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-# Made by : Nitish Kumar Singh
-
-<h1>Kush-Ekart- ECommerce Wesite</h1>
-
-<h2>Table of Contents</h2>
-
-* Homepage
-* LognIn/ SignUp page
-* Mobile Number Verification
-* Add/ Delete/ Update Product
-* Contact Us 
-
-<h2>Kush-Ekart - ECommerce Wesite</h2>
-
-> Kush-Ekart is a E-commerce website offers user-friendly interface, a seamless shopping experience, and a secure payment gateway.
-
-<h2>Images</h2>
-
-![HomePage of Website](https://res.cloudinary.com/ddm7rplpt/image/upload/v1681815423/1_hujy5h.jpg)
-
 ![Sign In/Sign Up](https://res.cloudinary.com/ddm7rplpt/image/upload/v1681816035/Untitled_dhdeue_ruaten.jpg)
 
 ![Navbar](https://res.cloudinary.com/ddm7rplpt/image/upload/v1681815636/3_fkjzhp.jpg)
