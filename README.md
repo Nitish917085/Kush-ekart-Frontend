@@ -20,13 +20,14 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 <h2>Images</h2>
 
-![HomePage of Website](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679732401/images/home_xpuhpb.jpg)
+![HomePage of Website](https://res.cloudinary.com/ddm7rplpt/image/upload/v1681815423/1_hujy5h.jpg)
 
 ![Sign In/Sign Up](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679731897/images/Untitled_dhdeue.jpg)
 
-![Product Description](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679732542/images/pu_jtlemy.jpg)
+![Navbar](https://res.cloudinary.com/ddm7rplpt/image/upload/v1681815636/3_fkjzhp.jpg)
 
-![Navbar](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679732776/images/NV_qtpap2.jpg)
+![Checkout Page](https://res.cloudinary.com/ddm7rplpt/image/upload/v1681815519/2_lhfupl.jpg)
+
 
 <h2>Description</h2>
 
