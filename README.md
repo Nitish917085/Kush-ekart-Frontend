@@ -1,70 +1,45 @@
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Made by : Nitish Kumar Singh
 
-### `yarn test`
+<h1>Kush-Ekart- ECommerce Wesite</h1>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<h2>Table of Contents</h2>
 
-### `yarn build`
+* Homepage
+* LognIn/ SignUp page
+* Mobile Number Verification
+* Add/ Delete/ Update Product
+* Contact Us 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h2>Kush-Ekart - ECommerce Wesite</h2>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+> Kush-Ekart is a E-commerce website offers user-friendly interface, a seamless shopping experience, and a secure payment gateway.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h2>Images</h2>
 
-### `yarn eject`
+![HomePage of Website](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679732401/images/home_xpuhpb.jpg)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Sign In/Sign Up](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679731897/images/Untitled_dhdeue.jpg)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Product Description](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679732542/images/pu_jtlemy.jpg)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Navbar](https://res.cloudinary.com/ddm7rplpt/image/upload/v1679732776/images/NV_qtpap2.jpg)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h2>Description</h2>
 
-## Learn More
+> Kush-Ekart ecommerce is a digital platform that allows your business to sell products or services online. It can have various features such as product listings with images and descriptions, shopping carts, checkout and payment processing, and customer account management. The website should be visually appealing and easy to navigate for customers to have a seamless shopping experience. Good customer service is crucial for an ecommerce website's success. Skart ecommerce should have multiple channels for customers to reach out, such as email or chat support
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h2>Tech Stack used</h2>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* HTML5
+* CSS3
+* Javascript/ EJS
+* Material Design Bootstrap
+* NodeJs
+* ExpressJs
+* MongoDb
+* Stripe Payment
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
