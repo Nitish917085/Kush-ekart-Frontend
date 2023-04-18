@@ -45,22 +45,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 * Stripe Payment
 
 )
-
-![Checkout Page](https://res.cloudinary.com/ddm7rplpt/image/upload/v1681815519/2_lhfupl.jpg)
-
-
-<h2>Description</h2>
-
-> Kush-Ekart ecommerce is a digital platform that allows your business to sell products or services online. It can have various features such as product listings with images and descriptions, shopping carts, checkout and payment processing, and customer account management. The website should be visually appealing and easy to navigate for customers to have a seamless shopping experience. Good customer service is crucial for an ecommerce website's success. Skart ecommerce should have multiple channels for customers to reach out, such as email or chat support
-
-<h2>Tech Stack used</h2>
-
-* HTML5
-* CSS3
-* Javascript/ EJS
-* Material Design Bootstrap
-* NodeJs
-* ExpressJs
-* MongoDb
-* Stripe Payment
-
