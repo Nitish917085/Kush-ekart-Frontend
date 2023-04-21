@@ -37,7 +37,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 * HTML5
 * CSS3
-* Javascript/ EJS
+* Javascript
 * Material Design Bootstrap
 * NodeJs
 * ExpressJs
